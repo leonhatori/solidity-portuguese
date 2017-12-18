@@ -6,11 +6,11 @@ Solidity
     :alt: Solidity logo
     :align: center
 
-Solidity é uma linguagem de programação de alto nível, orientada a contratos, com a síntese parecida
+Solidity é uma linguagem de programação de alto nível, orientada a contratos, com a sintaxe parecida
 com a de JavaScript e desenhada para ser executada na Máquina Virtual Ethereum (EVM).
 
 Solidity é estatisticamente tipada, suporta herança, bibliotecas e tipos
-complexos definidos pelo usuário entre outras características.
+complexos definidos pelo usuário, dentre outras características.
 
 Como você verá, é possível criar contratos para votação,
 vaquinhas (crowdfunding), leilões às cegas, carteiras multi-assinadas e mais.
